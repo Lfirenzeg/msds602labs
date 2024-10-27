@@ -25,7 +25,7 @@ def load_skills_from_csv(file_path):
 
 # Function to extract skills from a dynamically loaded page
 def extract_skills_with_selenium(url, case_sensitive_skills, case_insensitive_skills):
-    # Set up Selenium WebDriver (make sure to have the appropriate driver installed)
+    # Set up Selenium WebDriver (for this work  ensure to have the appropriate driver installed)
     driver = webdriver.Chrome()  # Use Chrome WebDriver
     driver.get(url)
     
