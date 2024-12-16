@@ -1,0 +1,20 @@
+Course,Title,Required,Skills
+Main Website,CUNY SPS MSDS Homepage,,"R, SQL, Python, Machine Learning, Classification, Artificial Intelligence, Data Governance, Communication, Critical Thinking, Business Intelligence, Hypothesis Testing, Data Science, Analytics, Teamwork"
+DATA 602,Advanced Programming Techniques,TRUE,"Machine Learning, Data Mining"
+DATA 605,Fundamentals of Computational Mathematics,FALSE,Analytics
+DATA 606,Statistics and Probability for Data Analytics,TRUE,"Bayesian Statistics, Analytics"
+DATA 607,Data Acquisition and Management,TRUE,"Data Cleaning, Data Security"
+DATA 608,Knowledge and Visual Analytics,TRUE,Analytics
+DATA 621,Business Analytics and Data Mining,FALSE,"Business Intelligence, Analytics, Teamwork, Data Mining"
+DATA 698,Analytics Master’s Research Project,TRUE,"Collaboration, Analytics"
+DATA 609,Mathematical Modeling Techniques for Data Analytics,FALSE,"Linear Programming, Analytics"
+DATA 612,Recommender Systems,FALSE,"Data Science, R, Spark, Python"
+DATA 618,Quantitative Finance,FALSE,
+DATA 620,Web Analytics,FALSE,"Analytics, Clustering"
+DATA 622,Machine Learning and Big Data,TRUE,"Text Mining, Machine Learning, Hadoop, Big Data"
+DATA 624,Predictive Analytics,TRUE,"Time Series Analysis, Machine Learning, Analytics"
+DATA 631,Data Structures and Algorithms for Distributed Systems,FALSE,"Big Data, Data Wrangling, Hadoop"
+DATA 644,Current Topics in Urban Sustainability: Energy,FALSE,
+DATA 643,Special Topics in Data Analytics,FALSE,"Data Science, Analytics"
+DATA 646,Current Topics in Urban Sustainability: Complex Systems,FALSE,
+DATA 661,Independent Study,FALSE,
